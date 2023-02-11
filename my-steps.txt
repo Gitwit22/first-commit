@@ -25,61 +25,125 @@ desktop.ini  my-steps.txt
 
 
 ### Step 2G
+$ cd ~
 
 
 ### Step 2H
+/c/Users/User
 
 
 ### Step 2I
+'3D Objects'/
+ AppData/
+'Application Data'@
+ Contacts/
+ Cookies@
+'Creative Cloud Files'/
+ Desktop/
+ Documents/
+ Downloads/
+ Favorites/
+ Links/
+'Local Settings'@
+ Music/
+'My Documents'@
+ NTUSER.DAT
+ NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf
+ NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms
+ NetHood@
+ OneDrive/
+ Pictures/
+ PrintHood@
+ Recent@
+'Saved Games'/
+ Searches/
+ SendTo@
+'Start Menu'@
+ Templates@
+ Videos/
+ ansel/
+ eclipse/
+ eclipse-workspace/
+ ntuser.dat.LOG1
+ ntuser.dat.LOG2
+ ntuser.ini
+
 
 
 ### Step 2J
-
+cd ~
 
 ### Step 2K
+User@DESKTOP-HH9EOOI MINGW64 ~
+$ cd Desktop
+
+User@DESKTOP-HH9EOOI MINGW64 ~/Desktop
+$ cd unit1-git-practice
+
 
 
 
 ### Step 3A
+$ mkdir veggies meats desserts
 
 
 ### Step 3B
+$ mv desserts sweets
 
 
 ### Step 3C
-
+$ mkdir proteins
+meat
 
 ### Step 3D
+$ mv meats proteins
 
 
 ### Step 3E
+$ cd veggies
+
+$ touch carrot.txt pea.txt
 
 
 ### Step 3F
-
-
+$ cd ..
+$ touch cookie.txt
 ### Step 3G
+$ mv cookie.txt donut.txt
 
 
 ### Step 3H
-
+ cd ..
+$ touch thing.txt
 
 ### Step 3I
+$ $ cp tofu.txt thing.txt
+
 
 
 ### Step 3J
+$ mv tofu.txt meats
 
 
 ### Step 3K
+$ cp thing.txt crab.txt
+$ cd proteins
+$ mv crab.txt meats
+
 
 
 ### Step 3L
+$ rm thing.txt
 
 
 ### Step 3M
+$ cp -r veggies plants
 
 
 ### Step 3N
+$ mkdir drinks
+$ rm -r drinks
 
 
 
